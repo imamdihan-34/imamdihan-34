@@ -109,7 +109,7 @@ I enjoy solving real-world problems through code, writing clean and maintainable
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,figma" />
 </p>
-## 🚀 Skills
+## Skills
 
 | Category | Technologies |
 |----------|--------------|
