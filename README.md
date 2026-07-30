@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="./assets/profile.png" width="180"/>
+<img src="/picture.jpeg" width="180"/>
 
 </div>
 
