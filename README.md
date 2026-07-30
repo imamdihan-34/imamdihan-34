@@ -84,3 +84,62 @@ I enjoy solving real-world problems through code, writing clean and maintainable
 <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge"/>
 
 </p>
+## 💻 Tech Stack
+
+### 🎨 Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</p>
+
+### ⚙️ Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database & Authentication
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+</p>
+
+### 🛠️ Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,figma" />
+</p>
+## 🚀 Skills
+
+| Category | Technologies |
+|----------|--------------|
+| 🎨 Frontend | HTML5 • CSS3 • JavaScript (ES6+) • React.js • Next.js • Tailwind CSS |
+| ⚙️ Backend | Node.js • Express.js • REST API |
+| 🗄️ Database | MongoDB • Firebase |
+| 🔧 Tools | Git • GitHub • VS Code • Postman • Figma |
+| 🤝 Soft Skills | Teamwork • Leadership • Problem Solving • Communication |
+## 🌟 What I Love Building
+
+✨ Responsive Websites
+
+📱 Modern User Interfaces
+
+🔐 Authentication Systems
+
+📊 Dashboard Applications
+
+🛒 Full Stack Web Apps
+
+⚡ REST APIs
+
+📂 CRUD Applications
+
+🎯 Real-World Projects
+## 🌱 Currently Exploring
+
+- ⚡ Advanced Next.js
+- 🔐 Authentication & Authorization
+- 🏗️ Scalable Backend Architecture
+- 📦 Performance Optimization
+- 🧠 Clean Code Principles
+- 🚀 Deployment & CI/CD
