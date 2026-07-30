@@ -52,3 +52,35 @@
 🌐 Portfolio: Coming Soon
 
 </p>
+## 👨‍💻 About Me
+
+I'm a passionate **Full Stack Web Developer** who loves turning ideas into modern, responsive, and scalable web applications.
+
+My journey started with curiosity about how websites work, and over time I've developed strong skills in both **frontend** and **backend** development. I enjoy building clean user interfaces, developing secure REST APIs, and creating seamless user experiences using modern web technologies.
+
+Currently, I'm serving as an **Assistant Mentor (Web Design & Development)** at the **FCI ICT Club**, where I help aspiring developers strengthen their frontend development skills while continuously improving my own knowledge.
+
+I enjoy solving real-world problems through code, writing clean and maintainable applications, and exploring new technologies to become a better developer every day.
+## 🚀 Current Activities
+
+- 🔭 Building **Full Stack Web Applications**
+- 🌱 Learning **Advanced Next.js** & Backend Architecture
+- 💡 Exploring **Authentication & Authorization**
+- 👨‍🏫 Assisting learners as an **Assistant Mentor** at **FCI ICT Club**
+- ⚡ Improving problem-solving and development best practices
+
+## ⚡ Coding Activity
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Learning-Next.js-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Database-MongoDB-brightgreen?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge"/>
+
+</p>
