@@ -6,11 +6,6 @@
 
 <br>
 
-<div align="center">
-
-<img src="/picture.jpeg" width="180"/>
-
-</div>
 
 <h1 align="center">Hi 👋, I'm Md. Imam Hassan Dihan</h1>
 
@@ -154,3 +149,187 @@ I believe in writing clean, maintainable code, continuously learning new technol
 </tr>
 
 </table>
+---
+
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="33%">
+
+## 💼 HireLoop
+
+A modern **Job Portal Platform** where users can explore job opportunities, apply for positions, and manage recruitment workflows through a clean and responsive interface.
+
+**Tech Stack**
+
+`React` `Node.js` `Express.js` `MongoDB` `Firebase`
+
+<br>
+
+<a href="https://legalease-client-new.vercel.app/">
+<img src="https://img.shields.io/badge/🌐 Live Demo-2563EB?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/imamdihan-34/Assignment-10-client-side">
+<img src="https://img.shields.io/badge/📂 Source Code-181717?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="33%">
+
+## 📚 MediQueue
+
+A modern **Tutor Booking System** that allows students to browse tutors, book sessions, and manage learning schedules through an intuitive and responsive interface.
+
+**Tech Stack**
+
+`React` `Firebase` `MongoDB` `Express.js`
+
+<br>
+
+<a href="https://mediqueue-client-side.vercel.app/">
+<img src="https://img.shields.io/badge/🌐 Live Demo-2563EB?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/imamdihan-34/Assignment-9-client-side">
+<img src="https://img.shields.io/badge/📂 Source Code-181717?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="33%">
+
+## 🐄 QurbaniHat
+
+An **Online Cattle Marketplace** where buyers can explore cattle listings and sellers can showcase livestock through a simple and responsive platform.
+
+**Tech Stack**
+
+`React` `Firebase` `MongoDB`
+
+<br>
+
+<a href="https://assignment-8-beta-sable.vercel.app/">
+<img src="https://img.shields.io/badge/🌐 Live Demo-2563EB?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/imamdihan-34/Assignment-8">
+<img src="https://img.shields.io/badge/📂 Source Code-181717?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=imamdihan-34&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=imamdihan-34&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imamdihan-34&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=imamdihan-34&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+---
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imamdihan-34&theme=tokyo-night&hide_border=true"/>
+---
+
+# 💬 Developer Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="mailto:imamdihan@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+<a href="https://github.com/imamdihan-34">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<a href="https://www.linkedin.com/in/imam-dihan/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="https://www.facebook.com/imam.hassan.dihan">
+<img src="https://img.icons8.com/color/48/facebook-new.png" height="45"/>
+</a>
+
+<a href="https://www.instagram.com/imam_dihan_07">
+<img src="https://img.icons8.com/fluency/48/instagram-new.png" height="45"/>
+</a>
+
+</p>
+---
+
+## 📚 Learning Journey
+
+✔ HTML5
+
+✔ CSS3
+
+✔ JavaScript (ES6+)
+
+✔ React.js
+
+✔ Next.js
+
+✔ Tailwind CSS
+
+✔ Node.js
+
+✔ Express.js
+
+✔ MongoDB
+
+✔ Firebase
+
+🔄 Currently Exploring
+
+- Advanced Next.js
+- Backend Architecture
+- Authentication & Authorization
+- Performance Optimization
+
+  ---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=120&section=footer"/>
+
+</div>
