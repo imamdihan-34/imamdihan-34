@@ -4,25 +4,27 @@
 
 </div>
 
-<div align="center">
-
-<img src="./assets/profile.png" width="170" style="border-radius:50%;" />
-
-</div>
+<br>
 
 <div align="center">
 
-# 👋 Hi, I'm Imam Dihan
-
-### Passionate Full Stack Developer from Bangladesh 🇧🇩
+<img src="./assets/profile.png" width="180"/>
 
 </div>
+
+<h1 align="center">Hi 👋, I'm Md. Imam Hassan Dihan</h1>
+
+<h3 align="center">
+Passionate Full Stack Developer from Bangladesh 🇧🇩
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;React+%26+Next.js+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;MERN+Stack+Developer;React+%26+Next.js+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
 </p>
 
-<p align="center">
+---
+
+<div align="center">
 
 <a href="mailto:imamdihan@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -44,102 +46,111 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</div>
+
+<br>
+
 <p align="center">
 
-📍 Feni, Bangladesh •
-📧 imamdihan@gmail.com •
-🌐 Portfolio: Coming Soon
+📍 Feni, Bangladesh • 📧 imamdihan@gmail.com • 🌐 Portfolio: Coming Soon
 
 </p>
-## About Me
 
-I'm a passionate **Full Stack Web Developer** who loves turning ideas into modern, responsive, and scalable web applications.
+---
 
-My journey started with curiosity about how websites work, and over time I've developed strong skills in both **frontend** and **backend** development. I enjoy building clean user interfaces, developing secure REST APIs, and creating seamless user experiences using modern web technologies.
+## 👨‍💻 About Me
 
-Currently, I'm serving as an **Assistant Mentor (Web Design & Development)** at the **FCI ICT Club**, where I help aspiring developers strengthen their frontend development skills while continuously improving my own knowledge.
+I'm a passionate **Full Stack Web Developer** who enjoys building modern, responsive, and scalable web applications using the **MERN Stack** and **Next.js**.
 
-I enjoy solving real-world problems through code, writing clean and maintainable applications, and exploring new technologies to become a better developer every day.
+My journey began with a curiosity about how websites work, which gradually evolved into a passion for creating complete web applications—from interactive user interfaces to secure backend systems and databases.
+
+Currently, I serve as an **Assistant Mentor (Web Design & Development)** at the **FCI ICT Club**, where I enjoy helping aspiring developers strengthen their frontend development skills while continuing to expand my own expertise.
+
+I believe in writing clean, maintainable code, continuously learning new technologies, and building applications that solve real-world problems.
+
+---
+
 ## 🚀 Current Activities
 
-- 🔭 Building **Full Stack Web Applications**
-- 🌱 Learning **Advanced Next.js** & Backend Architecture
-- 💡 Exploring **Authentication & Authorization**
-- 👨‍🏫 Assisting learners as an **Assistant Mentor** at **FCI ICT Club**
-- ⚡ Improving problem-solving and development best practices
+- 🔭 Building Full Stack Web Applications
+- 🌱 Learning Advanced Next.js & Backend Architecture
+- 🔐 Exploring Authentication & Authorization
+- 👨‍🏫 Assistant Mentor (Web Design & Development) at FCI ICT Club
+- ⚡ Improving Problem Solving & Clean Code Practices
+
+---
+
+## 🎯 Current Goals
+
+- 🚀 Become an Expert MERN Stack Developer
+- 💼 Build Production-Ready SaaS Applications
+- 🌍 Contribute to Open Source Projects
+- 📚 Master Next.js Ecosystem
+- ⚡ Improve Backend Architecture Skills
+- 🤝 Collaborate with Developers Worldwide
+
+---
 
 ## ⚡ Coding Activity
 
-<p align="left">
+<p>
 
 <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Learning-Next.js-purple?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Database-MongoDB-brightgreen?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge"/>
+
 </p>
+
+---
+
 ## 💻 Tech Stack
 
-### 🎨 Frontend Development
+<table>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
-</p>
+<tr>
 
-### ⚙️ Backend Development
+<td align="center" width="50%">
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+<h3>🎨 Frontend</h3>
 
-### 🗄️ Database & Authentication
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind"/>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
-</p>
+</td>
 
-### 🛠️ Tools & Technologies
+<td align="center" width="50%">
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,figma" />
-</p>
-## Skills
+<h3>⚙️ Backend</h3>
 
-| Category | Technologies |
-|----------|--------------|
-| 🎨 Frontend | HTML5 • CSS3 • JavaScript (ES6+) • React.js • Next.js • Tailwind CSS |
-| ⚙️ Backend | Node.js • Express.js • REST API |
-| 🗄️ Database | MongoDB • Firebase |
-| 🔧 Tools | Git • GitHub • VS Code • Postman • Figma |
-| 🤝 Soft Skills | Teamwork • Leadership • Problem Solving • Communication |
-## 🌟 What I Love Building
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 
-✨ Responsive Websites
+</td>
 
-📱 Modern User Interfaces
+</tr>
 
-🔐 Authentication Systems
+<tr>
 
-📊 Dashboard Applications
+<td align="center">
 
-🛒 Full Stack Web Apps
+<h3>🗄️ Database & Authentication</h3>
 
-⚡ REST APIs
+<img src="https://skillicons.dev/icons?i=mongodb,firebase"/>
 
-📂 CRUD Applications
+</td>
 
-🎯 Real-World Projects
-## 🌱 Currently Exploring
+<td align="center">
 
-- ⚡ Advanced Next.js
-- 🔐 Authentication & Authorization
-- 🏗️ Scalable Backend Architecture
-- 📦 Performance Optimization
-- 🧠 Clean Code Principles
-- 🚀 Deployment & CI/CD
+<h3>🛠️ Tools & Technologies</h3>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm"/>
+
+</td>
+
+</tr>
+
+</table>
