@@ -52,7 +52,7 @@
 🌐 Portfolio: Coming Soon
 
 </p>
-## 👨‍💻 About Me
+## About Me
 
 I'm a passionate **Full Stack Web Developer** who loves turning ideas into modern, responsive, and scalable web applications.
 
