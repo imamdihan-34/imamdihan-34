@@ -227,34 +227,25 @@ An **Online Cattle Marketplace** where buyers can explore cattle listings and se
 
 </table>
 ---
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=imamdihan-34&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=imamdihan-34&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imamdihan-34&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
----
-
-# 🏆 GitHub Trophies
+## 📊 GitHub Analytics
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=imamdihan-34&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=imamdihan-34&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img height="170" src="https://streak-stats.demolab.com?user=imamdihan-34&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imamdihan-34&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</p>
+
 ---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=imamdihan-34&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+</p>
+
 
 # 📈 Contribution Graph
 
