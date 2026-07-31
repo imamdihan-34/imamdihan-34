@@ -238,11 +238,6 @@ An **Online Cattle Marketplace** where buyers can explore cattle listings and se
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=imamdihan-34&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imamdihan-34&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
-</p>
 
 # 📈 Contribution Graph
 
