@@ -280,28 +280,6 @@ An **Online Cattle Marketplace** where buyers can explore cattle listings and se
 </p>
 ---
 
-## 📚 Learning Journey
-
-✔ HTML5
-
-✔ CSS3
-
-✔ JavaScript (ES6+)
-
-✔ React.js
-
-✔ Next.js
-
-✔ Tailwind CSS
-
-✔ Node.js
-
-✔ Express.js
-
-✔ MongoDB
-
-✔ Firebase
-
 🔄 Currently Exploring
 
 - Advanced Next.js
