@@ -1,220 +1,166 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2563EB,100:7C3AED&text=Md.%20Imam%20Hassan%20Dihan&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Next.js%20Developer&descAlignY=58&descSize=20"/>
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=220&section=header&text=Md.%20Imam%20Hassan%20Dihan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%2B%20Next.js&descAlignY=58&descSize=20" />
 </div>
 
-<br>
-
-<h3 align="center">
-Passionate Full Stack Developer from Bangladesh 🇧🇩
-</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,firebase" />
+</div>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;MERN+Stack+Developer;React+%26+Next.js+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
-</p>
-
-<br>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-&nbsp;&nbsp;
-<img src="https://img.icons8.com/color/48/facebook-new.png" height="45"/>
-&nbsp;&nbsp;
-<img src="https://img.icons8.com/fluency/48/instagram-new.png" height="45"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Frontend+Developer;MERN+Stack+Developer;React+%26+Next.js+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
-📍 Feni, Bangladesh
+  📍 Feni, Bangladesh &nbsp;|&nbsp; ✉️ imamdihan@gmail.com &nbsp;|&nbsp; 🌐 Portfolio: Coming Soon
 </p>
 
-<p align="center">
-📧 imamdihan@gmail.com • 🌐 Portfolio: Coming Soon
+###
+
+<h2 align="left">👋 About Me</h2>
+
+<p align="left">
+I'm a Frontend Developer and student, currently pursuing a Diploma in Telecommunications Engineering at Feni Computer Institute. My interest in web development grew out of curiosity about how websites actually work, which turned into a genuine passion for building complete, modern web applications.<br><br>
+I work primarily with the <b>MERN stack</b> — React.js, Next.js, Tailwind CSS, Node.js, Express.js, MongoDB, and Firebase — building responsive, well-structured interfaces backed by clean, maintainable server-side code.<br><br>
+I currently serve as an <b>Assistant Mentor (Web Design & Development)</b> at the <b>FCI ICT Club</b>, where I help other students strengthen their frontend skills while continuing to grow my own. 🚀
 </p>
 
----
+###
 
-## 👨‍💻 About Me
+<h2 align="left">🔨 Current Activities</h2>
 
-I'm a passionate **Full Stack Web Developer** who enjoys building modern, responsive, and scalable web applications using the **MERN Stack** and **Next.js**.
-
-My journey began with a curiosity about how websites work, which gradually evolved into a passion for creating complete web applications — from interactive user interfaces to secure backend systems and databases.
-
-Currently, I serve as an **Assistant Mentor (Web Design & Development)** at the **FCI ICT Club**, where I help aspiring developers strengthen their frontend development skills while continuing to expand my own expertise.
-
-I believe in writing clean, maintainable code, continuously learning new technologies, and building applications that solve real-world problems.
-
----
-
-## 🚀 Current Activities
-
-- 🔭 Building Full Stack Web Applications
-- 🌱 Learning Advanced Next.js & Backend Architecture
-- 🔐 Exploring Authentication & Authorization
-- 👨‍🏫 Assistant Mentor (Web Design & Development) at FCI ICT Club
+<p align="left">
+- ⚖️ Building <b>LegalEase</b> — a full-stack lawyer discovery platform (Next.js, Express, MongoDB Atlas)<br>
+- 📚 Building <b>MediQueue</b> — a full-stack tutor booking platform (Next.js, Express, MongoDB Atlas)<br>
+- 🌱 Learning Advanced Next.js & Backend Architecture<br>
+- 🔐 Exploring Authentication & Authorization<br>
+- 👨‍🏫 Assistant Mentor (Web Design & Development) at FCI ICT Club<br>
 - ⚡ Improving Problem Solving & Clean Code Practices
+</p>
 
----
+###
 
-## 🎯 Current Goals
+<h2 align="left">🎯 Current Goals</h2>
 
-- 🚀 Become an Expert MERN Stack Developer
-- 💼 Build Production-Ready SaaS Applications
-- 🌍 Contribute to Open Source Projects
-- 📚 Master the Next.js Ecosystem
-- ⚡ Improve Backend Architecture Skills
+<p align="left">
+- 🚀 Become an Expert MERN Stack Developer<br>
+- 💼 Build Production-Ready SaaS Applications<br>
+- 🌍 Contribute to Open Source Projects<br>
+- 📚 Master the Next.js Ecosystem<br>
+- ⚡ Improve Backend Architecture Skills<br>
 - 🤝 Collaborate with Developers Worldwide
+</p>
 
----
+###
 
-## 💻 Tech Stack
+<h2 align="left">🧠 Skills</h2>
 
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind"/>
+<h3 align="left">Frontend</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</p>
 
-### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+<h3 align="left">Backend</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-### 🗄️ Database & Authentication
-<img src="https://skillicons.dev/icons?i=mongodb,firebase"/>
+<h3 align="left">Database & Authentication</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+</p>
 
-### 🛠️ Tools & Technologies
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm"/>
+<h3 align="left">Tools & Deployment</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm" />
+</p>
 
----
+###
 
-# 🚀 Featured Projects
+<h2 align="left">💼 Featured Projects</h2>
 
 <table>
-
 <tr>
+<td width="33%" valign="top">
 
-<td width="33%">
+**💼 HireLoop**
 
-## 💼 HireLoop
+A modern Job Portal Platform where users can explore job opportunities, apply for positions, and manage recruitment workflows through a clean and responsive interface.
 
-A modern **Job Portal Platform** where users can explore job opportunities, apply for positions, and manage recruitment workflows through a clean and responsive interface.
+React
+Node.js
+Express.js
+MongoDB
+Firebase
 
-**Tech Stack**
-
-`React` `Node.js` `Express.js` `MongoDB` `Firebase`
-
-<br>
-
-<a href="https://legalease-client-new.vercel.app/">
-<img src="https://img.shields.io/badge/🌐 Live Demo-2563EB?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/imamdihan-34/Assignment-10-client-side">
-<img src="https://img.shields.io/badge/📂 Source Code-181717?style=for-the-badge"/>
-</a>
+[🔗 Live](https://legalease-client-new.vercel.app/) · [Source](https://github.com/imamdihan-34/Assignment-10-client-side)
 
 </td>
+<td width="33%" valign="top">
 
-<td width="33%">
+**📚 MediQueue**
 
-## 📚 MediQueue
+A modern Tutor Booking System that allows students to browse tutors, book sessions, and manage learning schedules through an intuitive and responsive interface.
 
-A modern **Tutor Booking System** that allows students to browse tutors, book sessions, and manage learning schedules through an intuitive and responsive interface.
+React
+Firebase
+MongoDB
+Express.js
 
-**Tech Stack**
-
-`React` `Firebase` `MongoDB` `Express.js`
-
-<br>
-
-<a href="https://mediqueue-client-side.vercel.app/">
-<img src="https://img.shields.io/badge/🌐 Live Demo-2563EB?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/imamdihan-34/Assignment-9-client-side">
-<img src="https://img.shields.io/badge/📂 Source Code-181717?style=for-the-badge"/>
-</a>
+[🔗 Live](https://mediqueue-client-side.vercel.app/) · [Source](https://github.com/imamdihan-34/Assignment-9-client-side)
 
 </td>
+<td width="33%" valign="top">
 
-<td width="33%">
+**🐄 QurbaniHat**
 
-## 🐄 QurbaniHat
+An Online Cattle Marketplace where buyers can explore cattle listings and sellers can showcase livestock through a simple and responsive platform.
 
-An **Online Cattle Marketplace** where buyers can explore cattle listings and sellers can showcase livestock through a simple and responsive platform.
+React
+Firebase
+MongoDB
 
-**Tech Stack**
-
-`React` `Firebase` `MongoDB`
-
-<br>
-
-<a href="https://assignment-8-beta-sable.vercel.app/">
-<img src="https://img.shields.io/badge/🌐 Live Demo-2563EB?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/imamdihan-34/Assignment-8">
-<img src="https://img.shields.io/badge/📂 Source Code-181717?style=for-the-badge"/>
-</a>
+[🔗 Live](https://assignment-8-beta-sable.vercel.app/) · [Source](https://github.com/imamdihan-34/Assignment-8)
 
 </td>
-
 </tr>
-
 </table>
 
----
+###
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=imamdihan-34&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://streak-stats.demolab.com?user=imamdihan-34&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=imamdihan-34&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔄 Currently Exploring
-
-- Advanced Next.js
-- Backend Architecture
-- Authentication & Authorization
-- Performance Optimization
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-
-<a href="mailto:imamdihan@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-
-<a href="https://github.com/imamdihan-34">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
-<a href="https://www.linkedin.com/in/imam-dihan/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="https://www.facebook.com/imam.hassan.dihan">
-<img src="https://img.icons8.com/color/48/facebook-new.png" height="45"/>
-</a>
-
-<a href="https://www.instagram.com/imam_dihan_07">
-<img src="https://img.icons8.com/fluency/48/instagram-new.png" height="45"/>
-</a>
-
-</p>
+<h2 align="left">🌐 Connect with Me</h2>
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/imam-dihan/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="https://www.facebook.com/imam.hassan.dihan" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
+  </a>
+  <a href="https://www.instagram.com/imam_dihan_07" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+  </a>
+  <a href="mailto:imamdihan@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
+  <a href="https://github.com/imamdihan-34" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40" alt="github" />
+  </a>
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=120&section=footer"/>
+###
 
+<h2 align="left">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imamdihan-34&theme=github_dark" height="150" alt="stats graph" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imamdihan-34&theme=github_dark" height="150" alt="languages graph" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=imamdihan-34&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+</div>
+
+<br clear="both">
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=120&section=footer" />
 </div>
